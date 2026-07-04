@@ -43,7 +43,7 @@ print("b=",b)
 
 
 #ATM
-balance=2000
+balance=1000
 withdrawl_amount=[100,200,150]
 for i in withdrawl_amount:
     balance = balance - i
